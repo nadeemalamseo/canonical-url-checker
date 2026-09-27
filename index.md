@@ -19,3 +19,7 @@ python canonical_url_checker.py https://example.com/page --json
 ## What the results mean
 
 The checker reports observable HTTP and HTML signals. It does not determine which canonical a search engine will select or whether a page will rank or be indexed.
+
+## Related resource
+
+For broader technical SEO implementation covering canonical tags, XML sitemaps, robots.txt, 404s, and redirect chains, see [MarketLatch WordPress Website Development Services](https://marketlatch.com/wordpress-dev/).
